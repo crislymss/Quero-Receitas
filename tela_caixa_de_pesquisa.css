@@ -1,0 +1,89 @@
+section.resultado_da_pesquisa{
+    padding: 150px 4%;
+}
+
+.resultado_da_pesquisa h3 {
+    color: #00401A;
+}
+
+.resultado_da_pesquisa p{
+    text-align: center;
+}
+
+.result{
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.retangulo{
+    margin: 20px;
+    background-color: #fff;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.retangulo2{
+    margin: 20px;
+    background-color: #fff;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.perfilresultado{
+    margin: 10px;
+}
+
+.perfilresultado .imagemdoperfil img{
+    cursor: pointer;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.perfilresultado .dadosdoperfil{
+    margin-left: 5px;
+}
+
+.perfilresultado .dadosdoperfil .iconereceita{
+    color: green;
+    font-size: 20px;
+}
+
+.perfilresultado .dadosdoperfil .iconelike{
+    color: red;
+    font-size: 15px;
+}
+
+.perfilresultado .dadosdoperfil p{
+    margin-left: 5px;
+}
+
+.receitaresultado{
+    margin: 10px;
+}
+
+.receitaresultado .imagemdoperfil img{
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.receitaresultado .dadosdoperfil{
+    margin: 10px;
+}
+
+.receitaresultado .dadosdoperfil .iconelike{
+    color: red;
+    font-size: 15px;
+}
+
+.receitaresultado .numcurtidas p{
+    margin-left: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+  }
+  
